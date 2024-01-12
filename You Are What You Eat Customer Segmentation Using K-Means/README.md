@@ -1,6 +1,5 @@
 # You_Are_What_You_Eat---Customer-Segmentation
 
-Project_Link: https://prajivinn.github.io/2022/01/20/customer-segmentation.html
 
 ## Context
 

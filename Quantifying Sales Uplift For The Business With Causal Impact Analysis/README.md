@@ -1,7 +1,5 @@
 # Causal-Impact-Analysis
 
-Project_Link : https://prajivinn.github.io/2022/01/23/causal-impact.html
-
 ## Project Overview
 
 Earlier in the year, our client, a grocery retailer, ran a campaign to promote their new “Delivery Club” - an initiative that costs a customer $100 per year for membership, but offers free grocery deliveries rather than the normal cost of $10 per delivery.

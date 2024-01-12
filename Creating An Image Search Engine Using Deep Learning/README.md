@@ -1,7 +1,5 @@
 # Image-Search-Engine-Deep-Learning
 
-Project_Link: https://prajivinn.github.io/2022/01/27/image-search-engine.html
-
 ## Context
 Our client had been analysing their customer feedback, and one thing in particular came up a number of times.
 

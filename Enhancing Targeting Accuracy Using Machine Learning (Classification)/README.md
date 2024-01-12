@@ -1,6 +1,5 @@
 # Enhancing-Targeting-Accuracy-Using-ML
 
-Project_Link: https://prajivinn.github.io/2022/01/19/enhancing-targeting-accuracy.html
 
 ## Context
 Our client, a grocery retailer, sent out mailers in a marketing campaign for their new delivery club. This cost customers $100 per year for membership, and offered free grocery deliveries, rather than the normal cost of $10 per delivery.

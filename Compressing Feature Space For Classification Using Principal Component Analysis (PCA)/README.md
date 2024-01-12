@@ -1,6 +1,5 @@
 # Compressing-Feature-Space-For-Classification-Using-PCA
 
-Project_Link: https://prajivinn.github.io/2022/01/21/pca.html
 
 ## Context
 Our client is looking to promote Ed Sheeran’s new album - and want to be both targeted with their customer communications, and as efficient as possible with their marketing budget.

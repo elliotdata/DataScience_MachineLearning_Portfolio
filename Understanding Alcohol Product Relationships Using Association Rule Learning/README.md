@@ -1,7 +1,5 @@
 # Understanding-Alcohol-Product-Relationships-Using-Associate_Rules_Learning
 
-Project_Link: https://prajivinn.github.io/2022/01/22/association-rule-learning.html
-
 ## Context
 Our client is looking to re-jig the alcohol section within their store. Customers are often complaining that they can’t find the products they want, and are also wanting recommendations about which other products to try. On top of this, their marketing team would like to start running “bundled” promotions as this has worked well in other areas of the store - but need guidance with selecting which products to put together.
 

@@ -1,7 +1,5 @@
 # Predicting-Customer-Loyalty-Using-ML
 
-Project_Link: https://prajivinn.github.io/2022/01/18/predicting-customer-loyalty.html
-
 ## Context
 
 Our client, a grocery retailer, hired a market research consultancy to append market level customer loyalty information to the database. However, only around 50% of the client’s customer base could be tagged, thus the other half did not have this information present.
