@@ -1,18 +1,18 @@
 # Data Science and Machine Learning Projects
 
-This repository contains a collection of data science and machine learning projects. Each project focuses on a unique aspect of data science or machine learning.
-
+This repository contains a collection of data science and machine learning projects. 
 ## Projects
 
-- Compressing Feature Space For Classification Using Principal Component
-- Enhancing Targeting Accuracy Using Machine Learning (Classification)
-- Fruit Classification with Convolutional Neural Networks
-- Predicting Customer Loyalty Using Machine Learning (Regression)
-- Creating An Image Search Engine Using Deep Learning
-- Assessing & Measuring Campaign Performance Using AB Testing
-- Creating the You Are What You Eat Customer Segmentation Using K-Means
-- Quantifying Sales Uplift For The Business With Causal Impact Analysis
-- Understanding Alcohol Product Relationships Using Association Rule Learning
-- Product Purchase Prediction - Streamlit
+- Fruit Image Classification using CNN (Deep Learning)
+- Creating an Image Search Engine (Deep Learning)
+- Predicting Customer Loyalty with Machine Learning (Regression)
+- Enhancing Targeting Accuracy with Machine Learning (Classification)
+- “You Are What You Eat” Customer Segmentation (Clustering)
+- Assessing Alcohol Product Relationships (Association Rule Learning)
+- Assessing Campaign Performance using Chi-Square (A/B Testing)
+- Compressing Feature Space for Classification (PCA)
+- Quantifying Sales Uplift using Causal Impact Analysis
+- Earthquake Tracker (Tableau Dashboard)
+- EV Market Analysis (SQL and Power BI)
 
 
