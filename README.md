@@ -1,7 +1,6 @@
 # Data Science and Machine Learning Projects
 
-This repository contains a collection of data science and machine learning projects. Each project focuses on a unique aspect of data science or machine learning.
-
+This repository contains a collection of data science and machine learning projects. 
 ## Projects
 
 - Fruit Image Classification using CNN (Deep Learning)
