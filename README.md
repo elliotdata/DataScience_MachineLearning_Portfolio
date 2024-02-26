@@ -14,5 +14,7 @@ This repository contains a collection of data science and machine learning proje
 - Quantifying Sales Uplift using Causal Impact Analysis
 - Earthquake Tracker (Tableau Dashboard)
 - EV Market Analysis (SQL and Power BI)
+- Customer Sentiment Analysis for British Airways
+- Predicting Customer Booking Behaviour | British Airways
 
 
