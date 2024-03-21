@@ -5,6 +5,7 @@ This repository contains a collection of data science and machine learning portf
 
 - Fruit Image Classification using CNN (Deep Learning)
 - Creating an Image Search Engine (Deep Learning)
+- Document Topic Extraction with LDA and LLM (NLP & LLM)
 - Predicting Customer Loyalty with Machine Learning (Regression)
 - Enhancing Targeting Accuracy with Machine Learning (Classification)
 - “You Are What You Eat” Customer Segmentation (Clustering)
