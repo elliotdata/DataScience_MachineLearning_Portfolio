@@ -8,7 +8,7 @@ This repository contains a collection of data science and machine learning portf
 - Document Topic Extraction with LDA and LLM (NLP & LLM)
 - Customer Sentiment Analysis for British Airways (NLP)
 - Predicting Customer Booking Behaviour | British Airways (Regression)
-- Predicting Potential Loan Default | Standard Bank (AutoMl & Bespoke ML)
+- Predicting Potential Loan Default | Standard Bank (SQL, AutoMl & Bespoke ML)
 - Predicting Customer Loyalty with Machine Learning (Regression)
 - Enhancing Targeting Accuracy with Machine Learning (Classification)
 - “You Are What You Eat” Customer Segmentation (Clustering)
